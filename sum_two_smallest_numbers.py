@@ -5,7 +5,7 @@ def sum_two_smallest_numbers(numbers):
 
 sum_two_smallest_numbers([10, 343445353, 3453445, 3453545353453])
 
-#NOT useful
+#NOT useful - it was crap
     smallest1 = numbers[0]
     smallest2 = numbers[0]
     answer = 0
